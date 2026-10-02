@@ -1,0 +1,25 @@
+tenure,monthly_charges,support_calls,contract_type,internet_service,churn
+2,85.5,5,Month-to-month,Fiber,1
+5,72.0,4,Month-to-month,DSL,1
+8,65.5,3,Month-to-month,Fiber,1
+12,55.0,2,One year,DSL,0
+18,48.5,1,One year,DSL,0
+24,45.0,1,Two year,DSL,0
+30,52.0,0,Two year,Fiber,0
+36,60.0,1,Two year,Fiber,0
+4,90.0,6,Month-to-month,Fiber,1
+7,78.5,5,Month-to-month,Fiber,1
+10,70.0,3,One year,Fiber,1
+14,62.5,2,One year,DSL,0
+20,50.0,1,Two year,DSL,0
+26,47.5,0,Two year,DSL,0
+32,55.5,1,Two year,Fiber,0
+40,65.0,0,Two year,Fiber,0
+3,88.0,6,Month-to-month,DSL,1
+9,75.0,4,Month-to-month,Fiber,1
+16,58.0,2,One year,Fiber,0
+22,49.0,1,Two year,DSL,0
+28,51.5,0,Two year,Fiber,0
+34,59.0,1,Two year,Fiber,0
+6,82.0,5,Month-to-month,DSL,1
+11,68.5,3,One year,Fiber,1
