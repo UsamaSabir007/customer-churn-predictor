@@ -201,7 +201,7 @@ customer-churn-predictor/
 Clone the repository and navigate into the project:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/UsamaSabir007/customer-churn-predictor.git
 cd customer-churn-predictor
 ```
 
